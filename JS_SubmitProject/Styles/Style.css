@@ -1,0 +1,8 @@
+.nav {
+    background-color: purple;
+    height: 70px;
+    color: white;
+    text-align: center;
+    /* margin: 3px; */
+    padding: 10px;
+}
