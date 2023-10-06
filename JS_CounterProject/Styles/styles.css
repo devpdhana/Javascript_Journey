@@ -1,0 +1,24 @@
+.display {
+    margin: 10px;
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+}
+
+.plus {
+    background-color: green;
+    border-width: 0px;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    color: white;
+}
+
+.sub {
+    background-color: red;
+    border-width: 0px;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    color: white;
+}
